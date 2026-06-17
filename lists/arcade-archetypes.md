@@ -263,6 +263,7 @@ Design DNA: spectacle, cinematic movement, reflex dodging.
 | Repository | Inspired by | Notes |
 |---|---|---|
 | [crogersdev/rail_shooter_v1](https://github.com/crogersdev/rail_shooter_v1) | Star Fox 64-like rail shooter | Godot rail shooter with camera rig, enemies, bullets, rings, targets, and 3D assets. |
+| [pixelized-anarchy-ld52/adra](https://gitlab.com/pixelized-anarchy-ld52/adra) | Rail shooter | GitLab-hosted Godot 4 rail shooter with 3D assets, Blender imports, and game scene. |
 | [johnpitchers/arcade-tribute](https://github.com/johnpitchers/arcade-tribute) | 3D Galaga / Space Invaders | Not a pure rail shooter, but useful for 3D arcade shooting and staged enemy patterns. |
 | [Hugo-Dz/super-godot-galaxy](https://github.com/Hugo-Dz/super-godot-galaxy) | Mario Galaxy-like 3D movement | Not a shooter, but useful as a Godot 4 reference for guided 3D movement and camera feel. |
 
@@ -322,6 +323,11 @@ Design DNA: simple rules that create deep tactical pressure.
 | [akien-mga/dynadungeons](https://github.com/akien-mga/dynadungeons) | Bomberman | GPL-3.0 Bomberman clone for Godot 3.x with local multiplayer and power-ups. |
 | [ydanielsb97/godot-bomberman-remake](https://github.com/ydanielsb97/godot-bomberman-remake) | Bomberman | MIT-licensed Godot 4 Bomberman remake made for learning purposes. |
 | [Amegatron/godot-bomberman](https://github.com/Amegatron/godot-bomberman) | Bomberman | Experimental implementation of Bomberman using Godot. |
+| [rleira/godot-frogger](https://github.com/rleira/godot-frogger) | Frogger | Godot Frogger project with scenes, sprites, assets, and game script. |
+| [technolingo/frogger](https://github.com/technolingo/frogger) | Frogger | Godot Frogger game with audio, fonts, graphics, scenes, and scripts. |
+| [localhost-chetan/godot-frogger](https://github.com/localhost-chetan/godot-frogger) | Frogger | Godot Frogger project with assets, scenes, and project source. |
+| [dswisher/godot-frogger](https://github.com/dswisher/godot-frogger) | Frogger | C# Godot Frogger reimplementation for the 20 Games Challenge. |
+| [kemini0615/godot-frogger-game](https://github.com/kemini0615/godot-frogger-game) | Frogger | Godot Frogger game with audio, fonts, graphics, scenes, and scripts. |
 | [Sparrowworks/Sokoban](https://github.com/Sparrowworks/Sokoban) | Sokoban | Godot 4 push-box puzzle clone with improved menus and undo support. |
 | [NEW-CYLANDIA/little-warioware](https://github.com/NEW-CYLANDIA/little-warioware) | WarioWare-style microgames | Godot microgame collection built around fast single-screen challenges. |
 | [bombertux/bombertux-story](https://gitlab.com/bombertux/bombertux-story) | Bomberman | GitLab-hosted 2D Godot Bomberman Story/Tournament project. |
@@ -342,6 +348,8 @@ Design DNA: high-score chasing, enemy swarms, tight controls.
 | [kidscancode/space_rocks](https://github.com/kidscancode/space_rocks) | Asteroids | Asteroids-like game from the KidsCanCode Godot tutorial ecosystem. |
 | [tstamborski/mission-apophis-2036](https://github.com/tstamborski/mission-apophis-2036) | Asteroids | Godot 4.0 Asteroids clone with story framing and downloads. |
 | [taylorhansen/Asteroids-Clone](https://github.com/taylorhansen/Asteroids-Clone) | Asteroids | Learning project with keyboard and mouse controls. |
+| [Kiel97/Snake](https://gitlab.com/Kiel97/Snake) | Snake | GitLab-hosted Snake prototype made in Godot 3.0 under MIT license. |
+| [bfedie518/freight-snake](https://gitlab.com/bfedie518/freight-snake) | Snake | GitLab-hosted freight-line themed Snake game made in Godot. |
 | [Toxe/godot-defender-clone](https://github.com/Toxe/godot-defender-clone) | Defender | WIP Defender clone with side-scrolling survival pressure. |
 | [mlm-games/asteroids-revenge](https://github.com/mlm-games/asteroids-revenge) | Asteroids | Asteroids-inspired arcade shooter. |
 | [Chaotic-Legend/Asteroid-Attack](https://gitlab.com/Chaotic-Legend/Asteroid-Attack) | Asteroids | GitLab-hosted Godot 4 Asteroids tutorial project. |
@@ -404,8 +412,18 @@ Design DNA: elegant rules, brutal difficulty curves, one-more-run pressure.
 | [YeOldeDM/godot-breakout-example](https://github.com/YeOldeDM/godot-breakout-example) | Breakout / Arkanoid | Simple Godot 2.1.4 Breakout/Arkanoid example. |
 | [mjablecnik/Godot-Arkanoid](https://github.com/mjablecnik/Godot-Arkanoid) | Arkanoid | Early Godot Arkanoid project with fonts, images, scenes, and scripts. |
 | [powerpsy/godot_arkanoid](https://github.com/powerpsy/godot_arkanoid) | Arkanoid | Compact Godot Arkanoid project with ball, player, block scripts, and sprites. |
+| [ArmanKianian/Godot_Breakout](https://github.com/ArmanKianian/Godot_Breakout) | Breakout | Classic Breakout clone made with Godot 4. |
+| [lucapasquale/Godot-Breakout](https://github.com/lucapasquale/Godot-Breakout) | Breakout | Basic Godot Breakout project with scenes, scripts, and textures. |
+| [GeoRosa2019/GodotBreakout](https://github.com/GeoRosa2019/GodotBreakout) | Breakout | Godot Breakout project with assets, scenes, and scripts. |
 | [vinizap/Block-breaker](https://gitlab.com/vinizap/Block-breaker) | Arkanoid / Block Breaker | GitLab-hosted Arkanoid-inspired Godot project with components, scenes, sounds, and graphics. |
+| [g2745/breakout](https://gitlab.com/g2745/breakout) | Breakout | GitLab-hosted simple Godot Breakout game. |
+| [learn-godot-3/breakout](https://gitlab.com/learn-godot-3/breakout) | Breakout | GitLab-hosted take on old-school Breakout in Godot. |
+| [k.freeman/space-out](https://gitlab.com/k.freeman/space-out) | Breakout / Arkanoid | GitLab-hosted Breakout/Arkanoid clone built with Godot. |
 | [zrckr/pong](https://github.com/zrckr/pong) | Pong | Simple Godot 4 Pong implementation released under the Unlicense. |
+| [gameidea-studio/godot-pong-game](https://github.com/gameidea-studio/godot-pong-game) | Pong | Pong game made in Godot 4.5 with ball, paddle, font, and level folders. |
+| [omniuni/Godot_Pong_Gong](https://github.com/omniuni/Godot_Pong_Gong) | Pong | Physics-based Pong written in Godot. |
+| [Chaotic-Legend/Ping-Pong](https://gitlab.com/Chaotic-Legend/Ping-Pong) | Pong | GitLab-hosted Godot 4 Pong tutorial project. |
+| [danikernel/godot-pong](https://gitlab.com/danikernel/godot-pong) | Pong | GitLab-hosted Godot Pong project with controller, entities, scenes, UI, and exports. |
 | [vnglst/pong-wars](https://github.com/vnglst/pong-wars) | Pong-like abstract action | Godot implementation of the Pong Wars concept. |
 
 ## 20. Arcade Adventure / Action-Adventure Hybrids
