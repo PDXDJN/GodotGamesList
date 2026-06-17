@@ -101,9 +101,15 @@ Design DNA: co-op, enemy waves, bosses, simple combos.
 
 | Repository | Inspired by | Notes |
 |---|---|---|
+| [quiver-dev/template-beat-em-up](https://github.com/quiver-dev/template-beat-em-up) | Streets of Rage-style beat-'em-up | MIT-licensed Godot 4 template with configurable characters, attacks, enemy AI, stages, debug tools, and free assets. |
 | [Anatolij-Grigorjev/StreetsOfDynasty](https://github.com/Anatolij-Grigorjev/StreetsOfDynasty) | Streets of Rage | Beat-'em-up tribute/reference project. |
+| [yockgen/godot-tut01](https://github.com/yockgen/godot-tut01) | Beat-'em-up tutorial/template | Godot 4.3+ beat-'em-up tutorial project covering animation, collisions, entity architecture, AI behaviors, and data-driven stages. |
+| [kfj001/g-orctober](https://github.com/kfj001/g-orctober) | Altered Beast / Golden Axe-style brawler | Sample Godot project asset with parallax scrolling, touch controls, gamepad support, chiptune SFX, and side-scrolling brawler action. |
 | [opi225/Godot-Beat-Em-Up](https://github.com/opi225/Godot-Beat-Em-Up) | Beat-'em-up | Godot beat-'em-up project with scenes, sprites, world scene, and `project.godot`. |
 | [NightParker725/Devil-s-Beatdown](https://github.com/NightParker725/Devil-s-Beatdown) | Beat-'em-up | Godot beat-'em-up game project. |
+| [adam-j-s/dungeonsmash](https://github.com/adam-j-s/dungeonsmash) | Brawler | Godot brawler game with assets, scenes, scripts, and `project.godot`. |
+| [ShirleyNekoDev/GameJam-PortalBrawler](https://github.com/ShirleyNekoDev/GameJam-PortalBrawler) | Minimal brawler | Small Godot brawler/game-jam project with project source, levels, materials, and sync code. |
+| [Anatolij-Grigorjev/Godot32dBeatemUpTest](https://github.com/Anatolij-Grigorjev/Godot32dBeatemUpTest) | Beat-'em-up architecture test | MIT-licensed Godot project testing code architectures for a 2D beat-'em-up style game; project source lives under `game`. |
 | [TaHaiLam2k6/UntitledGame](https://github.com/TaHaiLam2k6/UntitledGame) | Mobile beat-'em-up | Godot beat-'em-up mobile game project. |
 
 ## 6. Fighting Games
