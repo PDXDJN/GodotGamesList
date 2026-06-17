@@ -10,7 +10,7 @@ This list focuses on playable projects, learning projects, and focused engines/f
 
 Included:
 
-- Godot projects inspired by arcade staples such as Pong, Breakout, Space Invaders, Asteroids, Pac-Man, Bomberman, Frogger, Snake, Tetris, Sokoban, Galaga, and pinball.
+- Godot projects inspired by arcade staples such as Pong, Breakout, Space Invaders, Asteroids, Pac-Man, Bomberman, Frogger, Snake, Tetris, Sokoban, Galaga, Contra, Defender, Metal Slug, and pinball.
 - Classic-console-adjacent projects when they are commonly useful to arcade-game developers, such as Mario, Sonic, Zelda-like, and Dr. Mario projects.
 - Small learning projects if the repo is specific, runnable, and useful as a reference.
 
@@ -29,8 +29,15 @@ Not included:
 | Breakout or Arkanoid in Godot 4 | [Sparrowworks/Brick-Breaker](https://github.com/Sparrowworks/Brick-Breaker) |
 | Beginner-friendly Pong | [endlessm/moddable-pong](https://github.com/endlessm/moddable-pong), [zrckr/pong](https://github.com/zrckr/pong) |
 | Space Invaders in Godot 4 | [drxwat/godot-invaders](https://github.com/drxwat/godot-invaders), [Hernandez712/SpaceInvaders-Godot](https://github.com/Hernandez712/SpaceInvaders-Godot), [andreas-paul/space-invaders](https://github.com/andreas-paul/space-invaders) |
+| Side-scrolling shooters | [galexbh/contra](https://github.com/galexbh/contra), [VictorRandall/metalslug_clone](https://github.com/VictorRandall/metalslug_clone), [JSolde/Godot-demo-2D-Side-Scrolling-and-Wraparound-Shooter](https://github.com/JSolde/Godot-demo-2D-Side-Scrolling-and-Wraparound-Shooter), plus [more side-scrolling shooters](lists/side-scrolling-shooters.md) |
 | Pac-Man style maze chase | [clarkjohn/wizard-chase](https://github.com/clarkjohn/wizard-chase), [DOAmaster/PacmanGodot](https://github.com/DOAmaster/PacmanGodot), [Gianpyy/yet-another-pacman-clone](https://github.com/Gianpyy/yet-another-pacman-clone) |
 | Pinball | [dbisdorf/professor-pinball](https://github.com/dbisdorf/professor-pinball), [Calinou/libre-pinball](https://github.com/Calinou/libre-pinball) |
+
+## Extended Lists
+
+| List | Notes |
+|---|---|
+| [Side-scrolling shooters](lists/side-scrolling-shooters.md) | Contra-like run-and-gun games, Metal Slug-style projects, Defender-style horizontal shooters, and adjacent shmup references. |
 
 ## Paddle, Brick, and Pinball
 
@@ -198,4 +205,9 @@ site:github.com Godot Galaga clone
 site:github.com Godot Pong clone
 site:github.com Godot Snake arcade
 site:github.com Godot Sokoban clone
+site:github.com Godot Contra clone
+site:github.com Godot Metal Slug clone
+site:github.com Godot run-and-gun
+site:github.com Godot side-scrolling shooter
+site:github.com Godot Defender clone
 ```
