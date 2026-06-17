@@ -37,6 +37,7 @@ Not included:
 
 | List | Notes |
 |---|---|
+| [Arcade game archetypes](lists/arcade-archetypes.md) | Taxonomy of 20 arcade design archetypes, with representative Godot repositories for each. |
 | [Side-scrolling shooters](lists/side-scrolling-shooters.md) | Contra-like run-and-gun games, Metal Slug-style projects, Defender-style horizontal shooters, and adjacent shmup references. |
 
 ## Paddle, Brick, and Pinball
