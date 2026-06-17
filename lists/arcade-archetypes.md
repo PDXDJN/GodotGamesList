@@ -27,7 +27,13 @@ Design DNA: enemy formations, attack patterns, power-ups, score chasing.
 | Repository | Inspired by | Notes |
 |---|---|---|
 | [drxwat/godot-invaders](https://github.com/drxwat/godot-invaders) | Space Invaders | Direct Space Invaders clone made in Godot 4. |
+| [Jazuk1970/godot-space_invaders](https://github.com/Jazuk1970/godot-space_invaders) | Space Invaders | Godot Space Invaders remake with scenes, scripts, fonts, graphics, and sound assets. |
 | [Hernandez712/SpaceInvaders-Godot](https://github.com/Hernandez712/SpaceInvaders-Godot) | Space Invaders | Godot 4.4 clone with retro gameplay and wave-based attacks. |
+| [TNicolleDev/SpaceInvaders](https://github.com/TNicolleDev/SpaceInvaders) | Space Invaders | Compact Godot Space Invaders project with scenes and scripts. |
+| [GeekyMonkey/Godot-SpaceInvaders](https://github.com/GeekyMonkey/Godot-SpaceInvaders) | Space Invaders | Godot 4 Space Invaders project with both C# and GDScript versions under `SpaceInvaders_CS` and `SpaceInvaders_GD`. |
+| [Yom3n/godot-space-invaders](https://gitlab.com/Yom3n/godot-space-invaders) | Space Invaders | GitLab-hosted Godot Space Invaders project with assets, scenes, scripts, and `project.godot`. |
+| [powerhuda/learn-space-invaders-godot](https://gitlab.com/powerhuda/learn-space-invaders-godot) | Space Invaders | GitLab-hosted learning project recreating Space Invaders in Godot. |
+| [ibbathon/space-invaders-godot](https://gitlab.com/ibbathon/space-invaders-godot) | Space Invaders | GitLab-hosted Space Invaders recreation used for Godot practice. |
 | [johnpitchers/arcade-tribute](https://github.com/johnpitchers/arcade-tribute) | Galaga / Space Invaders | 3D tribute built with Godot 3.5.1. |
 | [JKaizenn/NebulaFighters](https://github.com/JKaizenn/NebulaFighters) | Galaga | Galaga-style project with score management and enemy movement patterns. |
 | [maxogod/Save-The-Galaxy](https://github.com/maxogod/Save-The-Galaxy) | Galaga / Space Invaders | 8-bit arcade shoot-'em-up made in Godot. |
@@ -144,6 +150,9 @@ Design DNA: special moves, character matchups, competitive mastery.
 | [blast-harbour/Godot-Rollback-Fighter-Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) | Rollback fighter demo | Godot fighting-game demo built around rollback netcode concepts. |
 | [Senior-Architecture/Godot-Rollback-Fighter-Game-Demo](https://github.com/Senior-Architecture/Godot-Rollback-Fighter-Game-Demo) | Rollback fighter demo | Godot rollback fighter game demo with project files and example clip. |
 | [ca3games/Godot-fighter-demo](https://github.com/ca3games/Godot-fighter-demo) | Kung-fu fighter demo | Godot fighter demo; project source lives under the `Yeah Kung Fu` folder. |
+| [patkilleen/field_trip_fighters](https://github.com/patkilleen/field_trip_fighters) | 2D fighting game | Open-source Godot 3.1.2 fighter with characters, abilities, UI, stages, and project files. |
+| [NoisyChain/Sakuga-Engine](https://github.com/NoisyChain/Sakuga-Engine) | Anime fighting-game engine | MIT-licensed Godot fighting-game engine project with fighters, game modes, scenes, scripts, and C# project files. |
+| [Apexal/wrathskeller](https://github.com/Apexal/wrathskeller) | Street Fighter II-style fighter | Local multiplayer Godot fighting game with source, documentation, and test characters. |
 
 ## 7. Run-and-Gun Shooters
 
@@ -162,6 +171,8 @@ Design DNA: chaotic action, bosses, weapon variety, co-op.
 | [AaronW-BE/godot-contra](https://github.com/AaronW-BE/godot-contra) | Contra | Apache-2.0 Godot project with player, enemy, bullet, level, and animation scenes/scripts. |
 | [VictorRandall/metalslug_clone](https://github.com/VictorRandall/metalslug_clone) | Metal Slug | MIT-licensed Metal Slug clone on Godot. |
 | [juan-burtet/RiderFromOuterSpace](https://github.com/juan-burtet/RiderFromOuterSpace) | Run-and-gun | GPL-3.0 run-and-gun game made with Godot Engine. |
+| [st3v3nhunt/godot-shooter](https://github.com/st3v3nhunt/godot-shooter) | Platform shooter | Godot platform-shooter tutorial project with assets and source. |
+| [Rezzack07/Godot-Platform-Shooter](https://github.com/Rezzack07/Godot-Platform-Shooter) | Platform shooter | Godot platform shooter with player, enemies, collectibles, effects, and project source. |
 
 More: [Side-scrolling shooters](side-scrolling-shooters.md).
 
@@ -207,6 +218,9 @@ Design DNA: simplified rules, big animations, multiplayer rivalry.
 | [bububirb/godot-hockey](https://github.com/bububirb/godot-hockey) | Air hockey | Simple air-hockey game made with Godot. |
 | [Oskar-Norberg/Godot-Golf](https://github.com/Oskar-Norberg/Godot-Golf) | Mini-golf | Mini-golf game made in Godot with physics, materials, scenes, and scripts. |
 | [Felix754/godot-golf-game](https://github.com/Felix754/godot-golf-game) | 3D golf | University 3D golf project; Godot source lives under the `golf` folder. |
+| [Samuel-Lewis/godot-minigolf](https://github.com/Samuel-Lewis/godot-minigolf) | Mini-golf | Godot mini-golf project with GUI, components, scenes, mesh library, and docs. |
+| [Lewis-Adkins/Godot_Bowling](https://github.com/Lewis-Adkins/Godot_Bowling) | Bowling | Godot bowling project with player, entities, environment, assets, and scripts. |
+| [sebastian-ptz/godot_volleyball](https://github.com/sebastian-ptz/godot_volleyball) | Volleyball | Small 2D Godot volleyball game with ball, animated characters, art, and game scripts. |
 
 ## 10. Puzzle Arcade Games
 
@@ -263,6 +277,7 @@ Design DNA: spectacle, cinematic movement, reflex dodging.
 | Repository | Inspired by | Notes |
 |---|---|---|
 | [crogersdev/rail_shooter_v1](https://github.com/crogersdev/rail_shooter_v1) | Star Fox 64-like rail shooter | Godot rail shooter with camera rig, enemies, bullets, rings, targets, and 3D assets. |
+| [lunarcloud/ggj-2024-rail-shooter](https://github.com/lunarcloud/ggj-2024-rail-shooter) | On-rails shooter | MIT-licensed Global Game Jam 2024 Godot 4.2 rail-shooter prototype with crosshair, HUD, targets, and level assets. |
 | [pixelized-anarchy-ld52/adra](https://gitlab.com/pixelized-anarchy-ld52/adra) | Rail shooter | GitLab-hosted Godot 4 rail shooter with 3D assets, Blender imports, and game scene. |
 | [johnpitchers/arcade-tribute](https://github.com/johnpitchers/arcade-tribute) | 3D Galaga / Space Invaders | Not a pure rail shooter, but useful for 3D arcade shooting and staged enemy patterns. |
 | [Hugo-Dz/super-godot-galaxy](https://github.com/Hugo-Dz/super-godot-galaxy) | Mario Galaxy-like 3D movement | Not a shooter, but useful as a Godot 4 reference for guided 3D movement and camera feel. |
@@ -307,6 +322,11 @@ Design DNA: custom controllers, score ranking, performance mastery.
 | [SrtHero278/idk-rhythm](https://github.com/SrtHero278/idk-rhythm) | Rhythm game | Small Godot rhythm game with scenes, scripts, assets, and autoloads. |
 | [bai-caiye/godot-osu-mania](https://github.com/bai-caiye/godot-osu-mania) | osu!mania-style rhythm | GPL-3.0 Godot rhythm game with scenes, shaders, classes, autoloads, and assets. |
 | [MikePowerhack/didactic-succotash](https://github.com/MikePowerhack/didactic-succotash) | Rhythm game | Small Godot rhythm-game project; source lives under the `rhythm_game` folder. |
+| [TheDevRatt/Rhythm-Game](https://github.com/TheDevRatt/Rhythm-Game) | Rhythm game | Godot 4 sample rhythm game with scenes, scripts, songs, sounds, sprites, and export presets. |
+| [gdquest-demos/godot-2d-rhythm](https://github.com/gdquest-demos/godot-2d-rhythm) | Rhythm game demo | GDQuest Godot 2D rhythm demo; playable project lives under the `godot` folder. |
+| [scenent/gd-rhythm](https://github.com/scenent/gd-rhythm) | Rhythm game sample | Godot 4.0.1 rhythm sample with generated notes, long notes, judgment, autoplay, and combo tracking. |
+| [harrypujols/rhythm-game](https://github.com/harrypujols/rhythm-game) | Rhythm game | Godot rhythm game with interface, rooms, scripts, fonts, and project source. |
+| [v-pukman-gd/beat-shooter-godot](https://github.com/v-pukman-gd/beat-shooter-godot) | Rhythm shooter | Godot rhythm-based shooter inspired by mobile beat-shooter games. |
 
 ## 15. Action Puzzle / Single-Screen Action
 
@@ -373,6 +393,7 @@ Design DNA: physics, score multipliers, objectives layered on chaos.
 | [LeeTeng2001/Pac-Pin-Pong](https://github.com/LeeTeng2001/Pac-Pin-Pong) | Pac-Man / Pinball / Space Invaders | Local multiplayer arcade mash-up. |
 | [Yazir/godot-pinball](https://github.com/Yazir/godot-pinball) | Pinball | Simple physics-based Godot 3 pinball project. |
 | [Demolishun/GodotPinballMachine](https://github.com/Demolishun/GodotPinballMachine) | 3D pinball | Godot learning project for a 3D pinball machine. |
+| [GandalfDG/pinhead](https://github.com/GandalfDG/pinhead) | Virtual pinball | MIT-licensed virtual pinball project in Godot with core systems, elements, meshes, materials, and playfield assets. |
 | [armbrusterjacob/pinball-dreams](https://gitlab.com/armbrusterjacob/pinball-dreams) | Pinball | GitLab-hosted small pinball game made while learning Godot. |
 
 ## 18. Redemption / Ticket Games
@@ -443,3 +464,8 @@ Design DNA: fantasy themes, light RPG elements, co-op progression.
 | [fornclake/zelda](https://github.com/fornclake/zelda) | The Legend of Zelda | Godot 4.0 Zelda clone. |
 | [Delta12Studio/Lango_GodotRPG](https://github.com/Delta12Studio/Lango_GodotRPG) | Zelda-like RPG | RPG/action-adventure project with Zelda-like framing. |
 | [w84death/mystic-treasure-hunt](https://github.com/w84death/mystic-treasure-hunt) | Arcade adventure | MIT-licensed first-person tile-based arcade adventure/RPG made with Godot. |
+| [zuned11/godotDungeonCrawler](https://github.com/zuned11/godotDungeonCrawler) | Dungeon crawler | Basic Godot 4 FPS RPG/dungeon crawler with addons, assets, levels, scenes, and scripts. |
+| [jvo34/pixel-dungeon-runner](https://github.com/jvo34/pixel-dungeon-runner) | Dungeon crawler | 2D Godot dungeon crawler with rooms, enemies, loot, waves, UI, and clean game architecture. |
+| [weilerk02/GodotActionAdventure](https://github.com/weilerk02/GodotActionAdventure) | Action adventure | Godot action-adventure project using Ninja Adventure-style assets, templates, and scenes. |
+| [AngularAngel/temple-of-the-elements](https://gitlab.com/AngularAngel/temple-of-the-elements) | Dungeon crawler | GitLab-hosted Godot dungeon crawler with assets, scenes, scripts, and project source. |
+| [meditator-games/loot-master](https://gitlab.com/meditator-games/loot-master) | Dungeon crawler | GitLab-hosted 2.5D dungeon crawler made for Godot Wild Jam 2. |
