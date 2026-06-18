@@ -100,6 +100,34 @@ Explosion and explosion-adjacent VFX references, ranked by practical usefulness 
 | 9 | [maryisdead/godot-2d-explosion](https://github.com/maryisdead/godot-2d-explosion) | Tiny top-down pixel explosion. | MIT-licensed Godot component using three `GPUParticles2D` nodes and a single pixel circle texture. |
 | 10 | [PlayWithFurcifer/ExplodeSprite](https://github.com/PlayWithFurcifer/ExplodeSprite) | Sprite disintegration/explosion. | Particle-shader-based sprite explosion demo for Godot with reusable scene, script, sprites, and shader material. |
 
+Broader visual-effects libraries, shader collections, and workflow helpers to inspect once the core explosion primitive is working.
+
+| Priority | Repository | Godot focus | Best for | Notes |
+|---:|---|---|---|---|
+| 1 | [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders) | Godot 3/4 shader demos | Large shader reference library. | Free/open-source 2D and 3D shader collection with playable demos; useful for hit flashes, dissolves, screen distortion, shields, glow, water, and retro screen polish. |
+| 2 | [gtibo/VFX-sketchbook-Godot-4.x](https://github.com/gtibo/VFX-sketchbook-Godot-4.x) | Godot 4.x | Stylized VFX inspiration. | Experimental Godot 4 VFX sketchbook; useful for modern shader ideas and visual techniques, but review performance before shipping effects directly. |
+| 3 | [haowg/GODOT-VFX-LIBRARY](https://github.com/haowg/GODOT-VFX-LIBRARY) | Godot 4.5+ | Drop-in action-game effects. | MIT-licensed collection of particle effects and shaders for sparks, fireballs, dash trails, portals, lightning, shield breaks, steam, rain, snow, and combat impact effects. |
+| 4 | [Brackeys/brackeys-particle-controls](https://github.com/Brackeys/brackeys-particle-controls) | Godot 4 | Particle iteration workflow. | MIT-licensed editor helper for previewing particles in the Godot editor, useful when tuning burst timing and one-shot effects. |
+| 5 | [gdquest-demos/godot-4-VFX-assets](https://github.com/gdquest-demos/godot-4-VFX-assets) | Godot 4 | Clean educational VFX assets. | Free/open-source Godot 4 VFX asset collection with particle examples, shaders, and reusable reference effects. |
+| 6 | [marinho/godot-visual-effects](https://github.com/marinho/godot-visual-effects) | Mostly Godot 3-era examples | Simple copyable VFX chunks. | General shader, particle, and camera-effect reference project; useful for shockwaves, sparks, smoke, impacts, and camera effects. |
+| 7 | [alexnikop/VFEZ-godot](https://github.com/alexnikop/VFEZ-godot) | Godot 4.3/4.4 tested | Stackable 2D/3D VFX materials. | MIT-licensed material system for building complex visual effects without hand-writing shader code; effects can be used on sprites, meshes, TextureRects, and particles. |
+| 8 | [danilw/godot-utils-and-other](https://github.com/danilw/godot-utils-and-other) | Godot 3.2.2 examples | Older particle, decal, and shader references. | MIT-licensed grab-bag with 3D particle effects, custom particle shaders, fragment shaders, and decals; check README licensing notes for bundled assets. |
+| 9 | [nezvers/Godot_goodies](https://github.com/nezvers/Godot_goodies) | Mixed | Curated visual-effects discovery. | MIT-licensed index of useful Godot resources, including links for shaders, particles, water, impact, dissolve, glitch, metaballs, and other visual tricks. |
+| 10 | [Kelpekk/Godot-Shader-Library](https://github.com/Kelpekk/Godot-Shader-Library) | Godot 4.1+ addon | In-editor shader discovery. | MIT-licensed addon for browsing and installing GodotShaders.com shaders from inside the editor; useful for finding one-off CanvasItem, Spatial, Sky, Fog, and particle shader references. Also listed on the [Godot Asset Library](https://godotengine.org/asset-library/asset/4890). |
+
+Explosion stack recipe:
+
+| Layer | Good references |
+|---|---|
+| Core explosion burst | [maryisdead/godot-2d-explosion](https://github.com/maryisdead/godot-2d-explosion) |
+| Shockwave ring | [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders), [marinho/godot-visual-effects](https://github.com/marinho/godot-visual-effects) |
+| Sparks and debris | [haowg/GODOT-VFX-LIBRARY](https://github.com/haowg/GODOT-VFX-LIBRARY), [gdquest-demos/godot-4-VFX-assets](https://github.com/gdquest-demos/godot-4-VFX-assets) |
+| Smoke or steam after-effect | [haowg/GODOT-VFX-LIBRARY](https://github.com/haowg/GODOT-VFX-LIBRARY), [marinho/godot-visual-effects](https://github.com/marinho/godot-visual-effects) |
+| Screen flash or hit flash | [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders) |
+| Camera shake and screen effects | [marinho/godot-visual-effects](https://github.com/marinho/godot-visual-effects) |
+| Editor iteration | [Brackeys/brackeys-particle-controls](https://github.com/Brackeys/brackeys-particle-controls) |
+| Stylized polish | [gtibo/VFX-sketchbook-Godot-4.x](https://github.com/gtibo/VFX-sketchbook-Godot-4.x) |
+
 ## Godot Tools: Cameras, UI, Input, and Templates
 
 | Tool | Best for | Notes |
