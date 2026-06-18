@@ -38,6 +38,7 @@ Not included:
 | List | Notes |
 |---|---|
 | [Arcade game archetypes](lists/arcade-archetypes.md) | Taxonomy of 20 arcade design archetypes, with representative Godot repositories for each. |
+| [Godot MCP servers](lists/godot-mcp-servers.md) | MCP servers and Godot editor integrations for AI-assisted Godot workflows. |
 | [Resources](lists/resources.md) | Royalty-free music, free sound effects, free game graphics, useful Godot tools, and reusable game components. |
 | [Side-scrolling shooters](lists/side-scrolling-shooters.md) | Contra-like run-and-gun games, Metal Slug-style projects, Defender-style horizontal shooters, and adjacent shmup references. |
 
