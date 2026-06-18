@@ -2,7 +2,7 @@
 
 Free and royalty-free asset sources plus practical Godot tools for building arcade-style games.
 
-Last reviewed: 2026-06-17.
+Last reviewed: 2026-06-18.
 
 Always check the license on the exact asset, track, sound, or plugin version you download. Many sites mix CC0, CC-BY, custom royalty-free terms, and paid/pro tiers.
 
@@ -82,6 +82,23 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) | Water shader prototype and learning reference. | MIT-licensed shader prototype. |
 | [CaptainProton42/GodotWaterfallShader](https://github.com/CaptainProton42/GodotWaterfallShader) | Interactive waterfall shader. | MIT-licensed shader project. |
 | [Godot Shaders](https://godotshaders.com/) | CRT effects, outlines, hit flashes, transitions, water, trails, and arcade VFX. | Community shader library; review each shader page. |
+
+## Godot Game Components: Combat, Feedback, and Effects
+
+Explosion and explosion-adjacent VFX references, ranked by practical usefulness for arcade shooters and action games.
+
+| Rank | Component | Best for | Notes |
+|---:|---|---|---|
+| 1 | [gdquest-demos/godot-visual-effects](https://github.com/gdquest-demos/godot-visual-effects) | Polished 2D VFX baseline. | Large GDQuest demo collection with a dedicated explosion effect plus lasers, trails, starfields, lightning, and other arcade-friendly effects; Godot project lives under `godot`. |
+| 2 | [Jeh3no/Godot-simple-FPS-weapon-system](https://github.com/Jeh3no/Godot-simple-FPS-weapon-system) | Game-integrated weapon VFX. | Godot 4 FPS weapon-system addon with muzzle flash, decals, bullet holes, impact feedback, and explosion-style weapon effects. |
+| 3 | [marinho/godot-visual-effects](https://github.com/marinho/godot-visual-effects) | Explosion ingredient kit. | General Godot VFX project with shaders, particles, camera effects, fire, impact, implosion, shockwave, smoke, sparks, and other layers useful for richer explosions. |
+| 4 | [drcd1/GodotSimpleExplosionVFX](https://github.com/drcd1/GodotSimpleExplosionVFX) | Focused explosion reference. | MIT-licensed Godot 3.2.3 explosion VFX with Blender source files and Godot effect files under `GodotFiles`. |
+| 5 | [Bonkahe/BasicParticleEffects](https://github.com/Bonkahe/BasicParticleEffects) | Godot 4 particle setup. | CC0 Godot 4.x GPU particle examples with explosion meshes/resources including `ExplosionRingMesh.res` and `PlayExplosion.res`. |
+| 6 | [Brackeys/vfx-in-godot](https://github.com/Brackeys/vfx-in-godot) | Tutorial-friendly VFX project. | Project files for Brackeys' Godot VFX video; runnable Godot project lives under `vfx` with particle bundle, scenes, scripts, and SFX. |
+| 7 | [nekotogd/Godot_BotW_Explosion](https://github.com/nekotogd/Godot_BotW_Explosion) | Stylized shockwave/explosion shader. | CC0 Breath of the Wild-style explosion shader reference with color-edit assets. |
+| 8 | [hiulit/Godot-3-2D-Fake-Explosion-Particles](https://github.com/hiulit/Godot-3-2D-Fake-Explosion-Particles) | Simple 2D fake explosion particles. | MIT-licensed Godot 3 project with reusable fake explosion particle scene/script and examples. |
+| 9 | [maryisdead/godot-2d-explosion](https://github.com/maryisdead/godot-2d-explosion) | Tiny top-down pixel explosion. | MIT-licensed Godot component using three `GPUParticles2D` nodes and a single pixel circle texture. |
+| 10 | [PlayWithFurcifer/ExplodeSprite](https://github.com/PlayWithFurcifer/ExplodeSprite) | Sprite disintegration/explosion. | Particle-shader-based sprite explosion demo for Godot with reusable scene, script, sprites, and shader material. |
 
 ## Godot Tools: Cameras, UI, Input, and Templates
 
