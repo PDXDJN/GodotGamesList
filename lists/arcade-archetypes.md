@@ -86,6 +86,7 @@ Design DNA: enemy AI personalities, route optimization, risk/reward pickups.
 | [Mustafaiqbal2/GodotPacman](https://github.com/Mustafaiqbal2/GodotPacman) | Pac-Man | C# Godot Pac-Man project with scenes, scripts, shaders, and export presets. |
 | [3deric/Godot_Pacman](https://github.com/3deric/Godot_Pacman) | Pac-Man | Simple Pac-Man clone; Godot source lives under the `Pacman` folder. |
 | [rpanda0421/godot-pacman-demo](https://github.com/rpanda0421/godot-pacman-demo) | Pac-Man | Godot Pac-Man recreation with actor, ghost, map, game, and asset folders. |
+| [Oscar_Andres/pacman-godot](https://gitlab.com/Oscar_Andres/pacman-godot) | Pac-Man | GitLab-hosted Pac-Man team project; Godot source lives under the `pac-yours` folder. |
 
 ## 4. Platformers
 
@@ -131,6 +132,7 @@ Design DNA: co-op, enemy waves, bosses, simple combos.
 | [ShirleyNekoDev/GameJam-PortalBrawler](https://github.com/ShirleyNekoDev/GameJam-PortalBrawler) | Minimal brawler | Small Godot brawler/game-jam project with project source, levels, materials, and sync code. |
 | [Anatolij-Grigorjev/Godot32dBeatemUpTest](https://github.com/Anatolij-Grigorjev/Godot32dBeatemUpTest) | Beat-'em-up architecture test | MIT-licensed Godot project testing code architectures for a 2D beat-'em-up style game; project source lives under `game`. |
 | [TaHaiLam2k6/UntitledGame](https://github.com/TaHaiLam2k6/UntitledGame) | Mobile beat-'em-up | Godot beat-'em-up mobile game project. |
+| [Chaotic-Legend/Fists-of-Fury](https://gitlab.com/Chaotic-Legend/Fists-of-Fury) | Beat-'em-up tutorial game | GitLab-hosted Godot beat-'em-up project with assets, scenes, world script, and project source. |
 
 ## 6. Fighting Games
 
@@ -173,6 +175,7 @@ Design DNA: chaotic action, bosses, weapon variety, co-op.
 | [juan-burtet/RiderFromOuterSpace](https://github.com/juan-burtet/RiderFromOuterSpace) | Run-and-gun | GPL-3.0 run-and-gun game made with Godot Engine. |
 | [st3v3nhunt/godot-shooter](https://github.com/st3v3nhunt/godot-shooter) | Platform shooter | Godot platform-shooter tutorial project with assets and source. |
 | [Rezzack07/Godot-Platform-Shooter](https://github.com/Rezzack07/Godot-Platform-Shooter) | Platform shooter | Godot platform shooter with player, enemies, collectibles, effects, and project source. |
+| [te1ny/contra](https://github.com/te1ny/contra) | Contra | C# Godot Contra project with project file, source folder, solution, and export presets. |
 
 More: [Side-scrolling shooters](side-scrolling-shooters.md).
 
@@ -197,6 +200,9 @@ Design DNA: checkpoints, time extensions, drifting, cabinet controls.
 | [Usama-Afzal-SQA/Toybox-Rally](https://github.com/Usama-Afzal-SQA/Toybox-Rally) | Kart racing | Toybox-themed Godot kart prototype with AI opponents, garage selection, and touch controls. |
 | [firet/3D-Racing-Game](https://gitlab.com/firet/3D-Racing-Game) | 3D racing | GitLab-hosted 3D racing game made with Godot. |
 | [vhahn/zero-vector](https://gitlab.com/vhahn/zero-vector) | Racing prototype | GitLab-hosted Godot racing prototype. |
+| [omarzaafan732/hillclimbracing-godot](https://gitlab.com/omarzaafan732/hillclimbracing-godot) | Hill Climb Racing-like | GitLab-hosted Godot hill-climb racing project with car, levels, pickups, UI, scripts, and project source. |
+| [PowerOlive/arch-racer](https://gitlab.com/PowerOlive/arch-racer) | Endless racing | GitLab-hosted endless runner/racing simulator with road, lobby, camera, score, and player scenes/scripts. |
+| [Cheeseness/tiny-chopper-raceway](https://gitlab.com/Cheeseness/tiny-chopper-raceway) | Top-down drifting/racing | GitLab-hosted Tiny Chopper Raceway example; older Godot source lives under the `godot` folder and uses `engine.cfg`. |
 
 ## 9. Sports Arcade Games
 
@@ -221,6 +227,7 @@ Design DNA: simplified rules, big animations, multiplayer rivalry.
 | [Samuel-Lewis/godot-minigolf](https://github.com/Samuel-Lewis/godot-minigolf) | Mini-golf | Godot mini-golf project with GUI, components, scenes, mesh library, and docs. |
 | [Lewis-Adkins/Godot_Bowling](https://github.com/Lewis-Adkins/Godot_Bowling) | Bowling | Godot bowling project with player, entities, environment, assets, and scripts. |
 | [sebastian-ptz/godot_volleyball](https://github.com/sebastian-ptz/godot_volleyball) | Volleyball | Small 2D Godot volleyball game with ball, animated characters, art, and game scripts. |
+| [Chaotic-Legend/Soccer-Course](https://gitlab.com/Chaotic-Legend/Soccer-Course) | Soccer | GitLab-hosted Godot soccer-course project with assets, scenes, utilities, and project source. |
 
 ## 10. Puzzle Arcade Games
 
@@ -244,6 +251,9 @@ Design DNA: combos, chains, garbage blocks, escalating tempo.
 | [makifdb/godot-match3-template](https://github.com/makifdb/godot-match3-template) | Match-3 | Godot match-3 template with scenes, scripts, assets, and MIT license. |
 | [ImNotFood/tetris-godot](https://gitlab.com/ImNotFood/tetris-godot) | Tetris | GitLab-hosted Tetris project with logic, models, UI, utilities, and `project.godot`. |
 | [danikernel/godot-tetris](https://gitlab.com/danikernel/godot-tetris) | Tetris | GitLab-hosted Godot Tetris project with audio, sprites, scenes, scripts, and exports. |
+| [fdz/godot-tetris](https://gitlab.com/fdz/godot-tetris) | Tetris | GitLab-hosted Godot Tetris project with main/high-score scenes, scripts, and project source. |
+| [GodofGrunts/tetris-clone-godot](https://gitlab.com/GodofGrunts/tetris-clone-godot) | Tetris | GitLab-hosted Godot 3 Tetris clone with scenes, assets, screenshot, and project file. |
+| [Bulsatar/godot-tetris-clone](https://gitlab.com/Bulsatar/godot-tetris-clone) | Tetris | GitLab-hosted Tetris clone; Godot source lives under the `src` folder. |
 
 ## 11. Light-Gun Shooters
 
@@ -263,6 +273,8 @@ The public Godot repo pool for literal light-gun arcade clones is thin, so Duck 
 | [wlribeiro/godot-duck-hunter](https://github.com/wlribeiro/godot-duck-hunter) | Duck Hunt | Duck-hunter project with Godot source under the `source` folder. |
 | [0xNunoMiranda/Godot-DuckHunt](https://github.com/0xNunoMiranda/Godot-DuckHunt) | Duck Hunt | Small Duck Hunt-style Godot project. |
 | [panihans/godot-duck-hunt](https://github.com/panihans/godot-duck-hunt) | Duck Hunt | Small Duck Hunt-style Godot repository. |
+| [alfredo1995/duck-hunt](https://github.com/alfredo1995/duck-hunt) | Duck Hunt | Godot Duck Hunt-inspired project with target shooting mechanics, animations, and turn-style flow. |
+| [SP4R0W/Shooting-Gallery](https://github.com/SP4R0W/Shooting-Gallery) | Shooting gallery | Godot point-and-shoot gallery game with assets, addons, source, and export presets. |
 
 ## 12. Rail Shooters
 
@@ -301,6 +313,12 @@ Direct Battlezone/After Burner-style Godot repos are uncommon. Battle City/tank 
 | [hxhieu/godot-battle-city](https://github.com/hxhieu/godot-battle-city) | Battle City | Godot Battle City project with models, objects, scenes, scripts, and GDNative library. |
 | [madhupprasad/Tank1999](https://github.com/madhupprasad/Tank1999) | Retro tank game | Godot retro tank game with assets, scenes, and scripts. |
 | [kiralymark/GodotTankGame](https://github.com/kiralymark/GodotTankGame) | 3D tank action | 3D tank game made in Godot; source lives under `TankGame`. |
+| [PDXDJN/GD_BattleZone](https://github.com/PDXDJN/GD_BattleZone) | Battlezone-style tank combat | Godot 4.5 vector tank-combat project with scenes, scripts, assets, and sound notes. |
+| [daniellittledev/hover-tank](https://github.com/daniellittledev/hover-tank) | Hover tank action | C# Godot hover-tank project with scenes, scripts, docs, and project source. |
+| [vyacheslav.vanin/godottanks](https://gitlab.com/vyacheslav.vanin/godottanks) | Tank arena | GitLab-hosted Godot tank game with player/enemy tanks, spawners, explosions, and project source. |
+| [Arc676/tanks-godot](https://gitlab.com/Arc676/tanks-godot) | Tanks | GitLab-hosted Godot rewrite of Tanks with scenes, scripts, sprites, textures, sounds, and exports. |
+| [Friedly/game_tank1990_clone_godot](https://gitlab.com/Friedly/game_tank1990_clone_godot) | Tank 1990 | GitLab-hosted Tank 1990 clone in Godot with project file and export presets. |
+| [Samsai/godot-2d-tanky-shooty-thingy](https://gitlab.com/Samsai/godot-2d-tanky-shooty-thingy) | 2D tank shooter | GitLab-hosted 2D tank shooting project with data, scenes, license files, and project source. |
 | [pranav-dp/rashroad](https://github.com/pranav-dp/rashroad) | Combat racing | Road Rash-like pseudo-3D racing with combat. |
 | [kirca/godot_vehicle_arcade](https://github.com/kirca/godot_vehicle_arcade) | Arcade vehicle controller | Godot arcade vehicle example with car, motorcycle, suspension, camera, and test stage scenes. |
 
@@ -327,6 +345,8 @@ Design DNA: custom controllers, score ranking, performance mastery.
 | [scenent/gd-rhythm](https://github.com/scenent/gd-rhythm) | Rhythm game sample | Godot 4.0.1 rhythm sample with generated notes, long notes, judgment, autoplay, and combo tracking. |
 | [harrypujols/rhythm-game](https://github.com/harrypujols/rhythm-game) | Rhythm game | Godot rhythm game with interface, rooms, scripts, fonts, and project source. |
 | [v-pukman-gd/beat-shooter-godot](https://github.com/v-pukman-gd/beat-shooter-godot) | Rhythm shooter | Godot rhythm-based shooter inspired by mobile beat-shooter games. |
+| [najmam/game-disco-seducium](https://gitlab.com/najmam/game-disco-seducium) | Rhythm minigames | GitLab-hosted Ludum Dare rhythm game; Godot source lives under the `godot` folder. |
+| [HaMM4R/RhythmTrainGodot](https://gitlab.com/HaMM4R/RhythmTrainGodot) | Rhythm game | GitLab-hosted Rhythm Train project with addons, assets, scenes, Android files, and project source. |
 
 ## 15. Action Puzzle / Single-Screen Action
 
@@ -372,6 +392,7 @@ Design DNA: high-score chasing, enemy swarms, tight controls.
 | [bfedie518/freight-snake](https://gitlab.com/bfedie518/freight-snake) | Snake | GitLab-hosted freight-line themed Snake game made in Godot. |
 | [Toxe/godot-defender-clone](https://github.com/Toxe/godot-defender-clone) | Defender | WIP Defender clone with side-scrolling survival pressure. |
 | [mlm-games/asteroids-revenge](https://github.com/mlm-games/asteroids-revenge) | Asteroids | Asteroids-inspired arcade shooter. |
+| [SakuyaCN/TowDownGame](https://github.com/SakuyaCN/TowDownGame) | Top-down survival shooter | Godot 4 top-down 2D shooter with roguelite pressure, weapons, upgrades, sprites, audio, and project source. |
 | [Chaotic-Legend/Asteroid-Attack](https://gitlab.com/Chaotic-Legend/Asteroid-Attack) | Asteroids | GitLab-hosted Godot 4 Asteroids tutorial project. |
 | [eduardomorato/space_rocks_minigame](https://gitlab.com/eduardomorato/space_rocks_minigame) | Asteroids | GitLab-hosted Asteroids-inspired Godot minigame. |
 | [kellegram/fossteroids](https://gitlab.com/kellegram/fossteroids) | Asteroids | GitLab-hosted Asteroids implementation in Godot. |
@@ -394,6 +415,9 @@ Design DNA: physics, score multipliers, objectives layered on chaos.
 | [Yazir/godot-pinball](https://github.com/Yazir/godot-pinball) | Pinball | Simple physics-based Godot 3 pinball project. |
 | [Demolishun/GodotPinballMachine](https://github.com/Demolishun/GodotPinballMachine) | 3D pinball | Godot learning project for a 3D pinball machine. |
 | [GandalfDG/pinhead](https://github.com/GandalfDG/pinhead) | Virtual pinball | MIT-licensed virtual pinball project in Godot with core systems, elements, meshes, materials, and playfield assets. |
+| [Calinou/escape-space](https://github.com/Calinou/escape-space) | Pong / Breakout / pinball hybrid | Top-down Godot game mixing Pong, Breakout, and pinball mechanics. |
+| [ZhekaHauska/pinball](https://github.com/ZhekaHauska/pinball) | Pinball physics sandbox | Godot pinball environment for testing artificial agents, with scenes, scripts, configs, and project source. |
+| [PPUC/MPF-pinball-ZeDMD-demo](https://github.com/PPUC/MPF-pinball-ZeDMD-demo) | MPF pinball display demo | Basic Godot example for Mission Pinball Framework with ZeDMD slides, modes, config, and project source. |
 | [armbrusterjacob/pinball-dreams](https://gitlab.com/armbrusterjacob/pinball-dreams) | Pinball | GitLab-hosted small pinball game made while learning Godot. |
 
 ## 18. Redemption / Ticket Games
@@ -412,6 +436,10 @@ The Godot public repo pool is very thin here. Coin-pusher and simple sports-arca
 |---|---|---|
 | [emanlaw/godot-Coin-Pusher](https://github.com/emanlaw/godot-Coin-Pusher) | Coin pusher | Godot coin-pusher project with scenes, scripts, docs, and `project.godot`. |
 | [hijiseop/godot-pachinko-game](https://github.com/hijiseop/godot-pachinko-game) | Pachinko-inspired mechanics | MIT-licensed Godot auto-battle game using pachinko-style mechanics. |
+| [Nchan8120/ProjectRamp](https://github.com/Nchan8120/ProjectRamp) | Skee-ball-like ramp game | C# Godot skee-ball-style roguelike project with scenes, scripts, docs, and project source. |
+| [florton/pachinko](https://github.com/florton/pachinko) | Pachinko / plinko | Godot 3D pachinko project with balls, boxes, assets, machine reference image, and project source. |
+| [hporro/Pachinko_tutorial](https://github.com/hporro/Pachinko_tutorial) | Pachinko tutorial | Godot pachinko tutorial series with runnable project folders under `pachinko-tutorial-01`, `02`, and `03`. |
+| [JosephGaiser/pachinko](https://github.com/JosephGaiser/pachinko) | Pachinko | Godot 4.1 pachinko project with assets, scene folder, addons, and project source. |
 | [DotcYuanJia/Godot_BasketballGame](https://github.com/DotcYuanJia/Godot_BasketballGame) | Basketball arcade | Simple Godot basketball game; useful for hoop-shot redemption mechanics. |
 | [FernandoH-G/Turtles-Racing](https://github.com/FernandoH-G/Turtles-Racing) | Short-loop race | Small race project useful as a short, repeatable arcade challenge reference. |
 
