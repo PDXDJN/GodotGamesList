@@ -9,4 +9,4 @@ Last reviewed: 2026-06-19.
 | [Mario-Style Platformers](platform-physics-adventure-adjacent/mario.md) | Super Mario remakes, engines, and close platformer references. |
 | [Sonic-Style Platformers](platform-physics-adventure-adjacent/sonic.md) | Momentum physics engines and Sonic fan projects. |
 | [Zelda-Like and Action Adventure](platform-physics-adventure-adjacent/zelda-adventure.md) | Top-down action, dungeon structure, and Zelda-inspired games. |
-| [Brawlers and Classic Arcade Platformers](platform-physics-adventure-adjacent/brawlers-and-classic-arcade.md) | Beat-'em-ups and classic single-screen arcade platformers. |
+| [Brawlers and Classic Arcade Platformers](platform-physics-adventure-adjacent/brawlers-and-classic-arcade.md) | Beat-'em-ups, Donkey Kong, Pitfall!, and classic Atari-era arcade platformers. |
