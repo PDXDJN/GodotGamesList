@@ -93,6 +93,42 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [ByteWiseLogic/Godot-Animated-Fog-Shader](https://github.com/ByteWiseLogic/Godot-Animated-Fog-Shader) | Weather fog (sandstorm, snowstorm, low mist). | Animated fog-volume shader for Godot 4 with controls for density, height falloff, noise flow direction, emission, and gradient coloring. MIT. |
 | [viksl/GodotFogVolumes](https://github.com/viksl/GodotFogVolumes) | Drop-in fog volume shapes when built-in FogVolumes misbehave. | Shader-based replacements for Godot 4.x FogVolumes in Box, Cylinder, Cone, and Ellipsoid shapes, extracted and adjusted from the engine source. No automatic culling — toggle visibility manually. MIT. |
 
+## Godot Tools: Weather and Precipitation
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [Lexpartizan/Godot_rain_shader](https://github.com/Lexpartizan/Godot_rain_shader) | Physically-based wet surfaces and puddles. | 99★ MIT GLSL shader covering noise-generated puddles, surface wetness, water streaks on materials, and roof rendering. Includes a Godot 4 folder for porting. |
+| [pirachute/godot-weather-2D](https://github.com/pirachute/godot-weather-2D) | Drop-in 2D weather node. | 92★ MIT. Adds a `Weather` node to any scene; inspector controls for rain, snow, wind strength/direction, particle size, and ambient scene darkening. |
+| [MisamotoGames/rain_shader_DNC](https://github.com/MisamotoGames/rain_shader_DNC) | Rain surface shader with day/night/cloudy variants. | Godot rain shader covering multiple lighting conditions. |
+| [Wolfe2x7/3D-particle-occlusion-collision-for-Godot-3](https://github.com/Wolfe2x7/3D-particle-occlusion-collision-for-Godot-3) | Preventing rain particles from entering sheltered indoor spaces. | Uses viewport depth buffers and shader logic for vertical particle occlusion. Godot 3. |
+
+## Godot Tools: CRT, VHS, and Retro Screen Shaders
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [Ahopness/GodotRetro](https://github.com/Ahopness/GodotRetro) | All-in-one retro screen pack. | 750★ CC0/MIT, Godot 4 (Godot 3 branch available). 22 compositor effects: CRT (simple and complex), TV, VHS (with VHS Pause), Glitch (simple and complex), Grain, Dithering, Lens Distortion, Monochrome, Color Correction, Sharpness, and PSX. Designed to be combined — e.g. Lens Distortion + Grain + TV for authentic look. |
+| [henriquelalves/SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) | Minimal CRT with per-effect toggles. | 395★ MIT, Godot 4 (branches for Godot 2 and 3). Distortion/curvature, color bleeding, and animated scanlines; all parameters exposed as uniforms for live tuning. |
+| [GlaireDaggers/Godot-RetroTV](https://github.com/GlaireDaggers/Godot-RetroTV) | Authentic NTSC composite video simulation. | 20★ MIT, Godot 4. Encodes the viewport texture as a real NTSC composite signal then decodes back to RGB — the most technically accurate TV artifact simulation available. Includes curved CRT, configurable shadow mask, and scanlines. |
+| [hiulit/Godot-3-2D-CRT-Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) | Godot 3 CRT overlay. | MIT 2D CRT shader for Godot 3 with scanlines, curvature, and color bleed applied as a 2D canvas layer. |
+| [MrBrideau/CRT-and-VHS-Filter-for-Godot-4.1](https://github.com/MrBrideau/CRT-and-VHS-Filter-for-Godot-4.1) | CRT aperture grille plus VHS degradation combined. | Godot 4.1 port of the pend00 shader; covers RGB sub-pixel grille, VHS discolorations, noise, rolling distortion, and screen warp in a single shader file. |
+
+## PSX and Low-Poly Retro Shaders
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [AnalogFeelings/godot-psx](https://github.com/AnalogFeelings/godot-psx) | PS1 look starter pack. | 156★ MIT, Godot 4. Small focused pack: lit, unlit, dithering, and fade-to-black/white shaders. Derived from Mighty Duke's CC0 work. Archived July 2025 but stable. |
+| [GithubPrankster/gpsx](https://github.com/GithubPrankster/gpsx) | Higher-accuracy PS1 emulation. | 30★ MIT. 15-bit color depth reduction, dithering, distance fog, vertex position quantization (the characteristic PS1 wobble), all PS1 blend modes, and a matching sky shader. |
+
+## Godot Tools: Post-Processing and Screen Effects
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [ArseniyMirniy/Godot-4-Color-Correction-and-Screen-Effects](https://github.com/ArseniyMirniy/Godot-4-Color-Correction-and-Screen-Effects) | Comprehensive color grading and screen polish. | 225★ MIT, Godot 4.3/4.4. Pure Visual Shader implementation; effects include color temperature, brightness/contrast, saturation, chromatic aberration, bloom boost, halation, vignette, posterization, film grain, Panini projection, and per-range (shadows/midtones/highlights) tonal control. |
+| [GodotPostProcess/addon](https://github.com/GodotPostProcess/addon) | Drop-in post-processing layer for 2D and 3D. | MIT, Godot 4.x plugin. Custom CanvasLayer with toggle-able effects: ASCII rendering, chromatic aberration, blur, vignette, animated glitch, outline, screen shake, analog monitor, grain, speed lines/circular waves, fish eye, and CRT/VHS. |
+| [arkology/ShaderV](https://github.com/arkology/ShaderV) | Extending the built-in Visual Shader editor. | Adds premade nodes to Godot's VisualShader graph: noises, blur, emboss, zoom, custom shapes, and more — useful for building custom effects without writing raw GLSL. |
+| [gamedevserj/Godot-Shaders](https://github.com/gamedevserj/Godot-Shaders) | Broad single-effect shader reference collection. | Godot shader collection ported from Unity; covers outlines, dissolve, hologram, heat distortion, water reflection, and other common per-material effects. |
+| [tiffany352/godot-starlight](https://github.com/tiffany352/godot-starlight) | Real-time 3D starfield background. | Renders 100,000 stars in 3D space in real time using a single Star.gdshader; useful for space backgrounds and night sky environments. |
+
 ## Godot Game Components: Combat, Feedback, and Effects
 
 Explosion and explosion-adjacent VFX references, ranked by practical usefulness for arcade shooters and action games.
