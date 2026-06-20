@@ -2,7 +2,7 @@
 
 Free and royalty-free asset sources plus practical Godot tools for building arcade-style games.
 
-Last reviewed: 2026-06-18.
+Last reviewed: 2026-06-20.
 
 Always check the license on the exact asset, track, sound, or plugin version you download. Many sites mix CC0, CC-BY, custom royalty-free terms, and paid/pro tiers.
 
@@ -82,6 +82,16 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) | Water shader prototype and learning reference. | MIT-licensed shader prototype. |
 | [CaptainProton42/GodotWaterfallShader](https://github.com/CaptainProton42/GodotWaterfallShader) | Interactive waterfall shader. | MIT-licensed shader project. |
 | [Godot Shaders](https://godotshaders.com/) | CRT effects, outlines, hit flashes, transitions, water, trails, and arcade VFX. | Community shader library; review each shader page. |
+
+## Godot Tools: Fog and Atmospheric Effects
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [TheAenema/Godot-Six-Way-Volumetric-Shader](https://github.com/TheAenema/Godot-Six-Way-Volumetric-Shader) | Clouds, smoke, fog, and fire volumes with realistic lighting. | Six-directional lighting model shader (SDLM) for Godot 4; blends three dual-direction texture maps to simulate light bouncing through a volume. Includes cloud and explosion demo scenes. CC BY 4.0. Archived November 2025 but fully usable. |
+| [zvodd/Godot4-ScreenSpacePostFX-DepthFog](https://github.com/zvodd/Godot4-ScreenSpacePostFX-DepthFog) | PSX / N64-style depth fog. | Post-processing fragment shader that restores Godot 3-style distance/depth fog in Godot 4's Compatibility render mode. Good for retro 3D aesthetics. MIT. |
+| [vladyna/godot-volume-fog](https://github.com/vladyna/godot-volume-fog) | Fog that reacts to scene lights. | Custom fog shader for Godot 4.4+ with animated noise, light-color tinting, and spreading effects toward lights. Includes GDScript and C# controller variants. MIT. |
+| [ByteWiseLogic/Godot-Animated-Fog-Shader](https://github.com/ByteWiseLogic/Godot-Animated-Fog-Shader) | Weather fog (sandstorm, snowstorm, low mist). | Animated fog-volume shader for Godot 4 with controls for density, height falloff, noise flow direction, emission, and gradient coloring. MIT. |
+| [viksl/GodotFogVolumes](https://github.com/viksl/GodotFogVolumes) | Drop-in fog volume shapes when built-in FogVolumes misbehave. | Shader-based replacements for Godot 4.x FogVolumes in Box, Cylinder, Cone, and Ellipsoid shapes, extracted and adjusted from the engine source. No automatic culling — toggle visibility manually. MIT. |
 
 ## Godot Game Components: Combat, Feedback, and Effects
 
