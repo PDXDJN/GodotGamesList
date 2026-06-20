@@ -44,6 +44,7 @@ Not included:
 | [Snake, crossing, and short-loop arcade](snake-crossing-short-loop-arcade.md) | Snake, Frogger, and concise arcade-loop projects. |
 | [Platform, physics, and adventure adjacent](platform-physics-adventure-adjacent.md) | Mario, Sonic, Zelda-like, and beat-'em-up references useful to arcade-game developers. |
 | [Side-scrolling shooters](side-scrolling-shooters.md) | Contra-like run-and-gun games, Metal Slug-style projects, Defender-style horizontal shooters, and adjacent shmup references. |
+| [Skill and knowledge games](skill-knowledge-games.md) | Trivia, quiz, memory, word puzzles, Minesweeper, Sudoku, Wordle, typing, and reaction-speed games. |
 
 ## Reference Lists
 
