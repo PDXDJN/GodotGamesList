@@ -48,6 +48,12 @@ Not included:
 | [Fighting games](fighting-games.md) | Versus fighters, arena/platform fighters, Double Dragon and Mortal Kombat-style projects, beat-'em-ups, and fighting-game tooling. |
 | [Skill and knowledge games](skill-knowledge-games.md) | Trivia, quiz, memory, word puzzles, Minesweeper, Sudoku, Wordle, typing, and reaction-speed games. |
 | [GTA-style and top-down open world](gta-style-open-world.md) | GTA III in Godot/Redot (OpenLiberty), GTA1 C++ references (Carnage3D, GTAViewer), and Godot 4 overhead-car and top-down-shooter components for building GTA1-style games. |
+| [Scrolling shoot-'em-ups](scrolling-shmups.md) | R-Type/Gradius horizontal shmups, 1942/Raiden/Touhou vertical shooters, and bullet-hell games and engines. |
+| [Racing games](racing-games.md) | Top-down 2D racing, kart and 3D racing, Road Rash combat racing, Hill Climb, and endless road games. |
+| [Sports arcade](sports-arcade.md) | Soccer, golf, bowling, basketball, air hockey, and volleyball in Godot. |
+| [Endless runners](endless-runners.md) | Flappy Bird clones, Temple Run-style 3D runners, Chrome Dino-likes, and side-scrolling endless runners. |
+| [Roguelikes and roguelites](roguelikes.md) | Turn-based grid roguelikes, action roguelites (Enter the Gungeon / Binding of Isaac style), and deckbuilders. |
+| [Rhythm and music games](rhythm-music.md) | DDR, Taiko, osu!mania, and other beat-matching rhythm games plus Godot rhythm frameworks. |
 
 ## Reference Lists
 
