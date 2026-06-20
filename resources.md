@@ -100,7 +100,7 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [Lexpartizan/Godot_rain_shader](https://github.com/Lexpartizan/Godot_rain_shader) | Physically-based wet surfaces and puddles. | 99★ MIT GLSL shader covering noise-generated puddles, surface wetness, water streaks on materials, and roof rendering. Includes a Godot 4 folder for porting. |
 | [pirachute/godot-weather-2D](https://github.com/pirachute/godot-weather-2D) | Drop-in 2D weather node. | 92★ MIT. Adds a `Weather` node to any scene; inspector controls for rain, snow, wind strength/direction, particle size, and ambient scene darkening. |
 | [MisamotoGames/rain_shader_DNC](https://github.com/MisamotoGames/rain_shader_DNC) | Rain surface shader with day/night/cloudy variants. | Godot rain shader covering multiple lighting conditions. |
-| [Wolfe2x7/3D-particle-occlusion-collision-for-Godot-3](https://github.com/Wolfe2x7/3D-particle-occlusion-collision-for-Godot-3) | Preventing rain particles from entering sheltered indoor spaces. | Uses viewport depth buffers and shader logic for vertical particle occlusion. Godot 3. |
+| [gregrylivingston/Godot4---Weather-System-2D](https://github.com/gregrylivingston/Godot4---Weather-System-2D) | Full 2D weather system with sky and water. | 8★ MIT, Godot 4. Anime-short origin; SkySetting node with rain amount, cloud density, and sun descent rate; reflective water shader; falling rain and raindrops-on-screen effects; dynamic cloud generation. Combines four GodotShaders.com shaders into an integrated system. |
 
 ## Godot Tools: CRT, VHS, and Retro Screen Shaders
 
@@ -109,7 +109,6 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [Ahopness/GodotRetro](https://github.com/Ahopness/GodotRetro) | All-in-one retro screen pack. | 750★ CC0/MIT, Godot 4 (Godot 3 branch available). 22 compositor effects: CRT (simple and complex), TV, VHS (with VHS Pause), Glitch (simple and complex), Grain, Dithering, Lens Distortion, Monochrome, Color Correction, Sharpness, and PSX. Designed to be combined — e.g. Lens Distortion + Grain + TV for authentic look. |
 | [henriquelalves/SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) | Minimal CRT with per-effect toggles. | 395★ MIT, Godot 4 (branches for Godot 2 and 3). Distortion/curvature, color bleeding, and animated scanlines; all parameters exposed as uniforms for live tuning. |
 | [GlaireDaggers/Godot-RetroTV](https://github.com/GlaireDaggers/Godot-RetroTV) | Authentic NTSC composite video simulation. | 20★ MIT, Godot 4. Encodes the viewport texture as a real NTSC composite signal then decodes back to RGB — the most technically accurate TV artifact simulation available. Includes curved CRT, configurable shadow mask, and scanlines. |
-| [hiulit/Godot-3-2D-CRT-Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) | Godot 3 CRT overlay. | MIT 2D CRT shader for Godot 3 with scanlines, curvature, and color bleed applied as a 2D canvas layer. |
 | [MrBrideau/CRT-and-VHS-Filter-for-Godot-4.1](https://github.com/MrBrideau/CRT-and-VHS-Filter-for-Godot-4.1) | CRT aperture grille plus VHS degradation combined. | Godot 4.1 port of the pend00 shader; covers RGB sub-pixel grille, VHS discolorations, noise, rolling distortion, and screen warp in a single shader file. |
 
 ## PSX and Low-Poly Retro Shaders
@@ -128,6 +127,29 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [arkology/ShaderV](https://github.com/arkology/ShaderV) | Extending the built-in Visual Shader editor. | Adds premade nodes to Godot's VisualShader graph: noises, blur, emboss, zoom, custom shapes, and more — useful for building custom effects without writing raw GLSL. |
 | [gamedevserj/Godot-Shaders](https://github.com/gamedevserj/Godot-Shaders) | Broad single-effect shader reference collection. | Godot shader collection ported from Unity; covers outlines, dissolve, hologram, heat distortion, water reflection, and other common per-material effects. |
 | [tiffany352/godot-starlight](https://github.com/tiffany352/godot-starlight) | Real-time 3D starfield background. | Renders 100,000 stars in 3D space in real time using a single Star.gdshader; useful for space backgrounds and night sky environments. |
+
+## Godot Tools: Sky and Day-Night Cycles
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [krzmig/godot-simple-sky-project](https://github.com/krzmig/godot-simple-sky-project) | Procedural day-night-season sky for 3D. | 124★ MIT, Godot 4. Dynamically moving sun and moon calculated from latitude and axial tilt; day length varies by season; moon phases based on sun position; noise-generated clouds without repeating textures. Clean reference for any outdoor 3D game needing a living sky. |
+
+## Godot Tools: Lighting, God Rays, and Lens Flares
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [ARez2/compositor-effect-lens-effects](https://github.com/ARez2/compositor-effect-lens-effects) | Compositor-based lens flares and god rays. | 28★ MIT, Godot 4.5+. Hooks directly into the rendering pipeline as a compositor effect; runs in the editor viewport; adjustable weight and sample count; supports double-precision builds. The lowest-overhead approach available for both effects. |
+| [GoldenThumbs/GD_LensFlares](https://github.com/GoldenThumbs/GD_LensFlares) | Texture-atlas lens flare system. | 22★ MIT, Godot 4.0. GDScript addon using MultiMesh to batch each lens flare into one draw call; supports Godot's native occlusion culling and raycast-based occlusion detection. |
+| [AguaMineral/SimplestGodRay3D](https://github.com/AguaMineral/SimplestGodRay3D) | Stylized non-physical light shaft beams. | 16★ MIT, Godot 4.4+ Forward+. Single QuadMesh per beam with vertex-distortion shader; parameters for width, height, spread, intensity, transparency, and fade distance. Best for fixed-view or decorative environments — beams do not interact with scene geometry. |
+| [joryleech/Godot-Fake-Lightweight-God-Rays](https://github.com/joryleech/Godot-Fake-Lightweight-God-Rays) | Drag-and-drop gradient god ray prefab. | MIT, Godot 4. Gradient texture modulates beam transparency along its length; depth-based attenuation; drop into any scene with no code required. |
+
+## Godot Tools: Cel Shading and Stylized Rendering
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [eldskald/godot4-cel-shader](https://github.com/eldskald/godot4-cel-shader) | Complete 3D cel/toon shader. | 291★ MIT, Godot 4 (updated 2025). Multiple light support; customizable diffuse curve texture; specular blobs with smoothness control; Fresnel rim lighting; 3D outlines; normal maps; ambient occlusion; anisotropy flowcharts; backlight; transparency and refraction. The most complete open-source Godot 4 cel shader. |
+| [leopeltola/Godot-3d-pixelart-demo](https://github.com/leopeltola/Godot-3d-pixelart-demo) | 3D pixel-art outline and highlight shader. | MIT, Godot 4. Works as both a post-processing pass and a per-object material; snaps rendering to a pixelated grid and adds hard outlines for a 3D-in-pixel-art look. Note: may conflict with transparency. |
+| [Lord0Sanz/Godot-Glass-Break-Effect](https://github.com/Lord0Sanz/Godot-Glass-Break-Effect) | Interactive Voronoi glass crack shader. | MIT, Godot 4.6. Procedurally generates Voronoi crack patterns outward from impact points; includes optical refraction, dynamic blur, configurable crack propagation speed, auto-reset timing, audio trigger integration, and 10+ adjustable shader parameters. |
 
 ## Godot Game Components: Combat, Feedback, and Effects
 
