@@ -12,3 +12,9 @@ Last reviewed: 2026-06-20.
 | [kirca/godot_vehicle_arcade](https://github.com/kirca/godot_vehicle_arcade) | Kart / arcade vehicle | Godot arcade vehicle example with car, motorcycle, suspension, camera, and test stage scenes. |
 | [firet/3D-Racing-Game](https://gitlab.com/firet/3D-Racing-Game) | 3D racing | GitLab-hosted 3D racing game made with Godot. |
 | [vhahn/zero-vector](https://gitlab.com/vhahn/zero-vector) | 3D racing prototype | GitLab-hosted Godot racing prototype. |
+
+## Tutorial Articles
+
+| Tutorial | Covers | Notes |
+|---|---|---|
+| [Make a 3D Racing Game from Scratch in Godot](https://gameidea.org/2024/08/30/make-a-3d-racing-game-from-scratch-in-godot/) | Godot 4 VehicleBody3D racing | gameidea.org (2024). Full walkthrough building a Need for Speed 2-inspired 3D racing game in Godot 4 using VehicleBody3D and VehicleWheel3D physics; covers steering, engine thrust, lap timer, and multi-level structure. Assumes familiarity with GDScript. |
