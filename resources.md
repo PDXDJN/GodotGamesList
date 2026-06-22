@@ -118,6 +118,7 @@ These sources host clips from copyrighted films, TV shows, and pop culture. They
 | [henriquelalves/SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) | Minimal CRT with per-effect toggles. | 395★ MIT, Godot 4 (branches for Godot 2 and 3). Distortion/curvature, color bleeding, and animated scanlines; all parameters exposed as uniforms for live tuning. |
 | [GlaireDaggers/Godot-RetroTV](https://github.com/GlaireDaggers/Godot-RetroTV) | Authentic NTSC composite video simulation. | 20★ MIT, Godot 4. Encodes the viewport texture as a real NTSC composite signal then decodes back to RGB — the most technically accurate TV artifact simulation available. Includes curved CRT, configurable shadow mask, and scanlines. |
 | [MrBrideau/CRT-and-VHS-Filter-for-Godot-4.1](https://github.com/MrBrideau/CRT-and-VHS-Filter-for-Godot-4.1) | CRT aperture grille plus VHS degradation combined. | Godot 4.1 port of the pend00 shader; covers RGB sub-pixel grille, VHS discolorations, noise, rolling distortion, and screen warp in a single shader file. |
+| [The-Wizard-Coder/LLM-in-Godot](https://github.com/The-Wizard-Coder/LLM-in-Godot) | CRT terminal aesthetic in a complete working project. | 7★ MIT, Godot 4. Terminal-based text adventure game with a CRT green-screen visual; useful as a reference for applying CRT effects to UI/text scenes. LLM-powered via the nobodywho plugin. |
 
 ## PSX and Low-Poly Retro Shaders
 
@@ -212,6 +213,13 @@ Explosion stack recipe:
 | [Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template) | Main menu, options, pause, credits, scene loading, and project structure. | MIT-licensed Godot 4 template. |
 | [Pennycook/godot-input-prompts](https://github.com/Pennycook/godot-input-prompts) | Keyboard/mouse and controller input prompt nodes. | MIT-licensed plugin. |
 | [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) | Dialogues, visual novels, characters, and branching conversation UI. | MIT-licensed addon. |
+
+## Godot Tools: LLM and Generative AI Integration
+
+| Tool | Best for | Notes |
+|---|---|---|
+| [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) | Running LLMs locally inside Godot with no API key or internet connection. | 1000+★ EUPL-1.2 (free for proprietary projects; modifications must stay open). Godot 4.5+ AssetLib plugin. Supports thousands of GGUF-format models from HuggingFace; GPU-accelerated via Vulkan or Metal; includes type-safe tool calling. The standard way to embed on-device AI into a Godot game. |
+| [The-Wizard-Coder/LLM-in-Godot](https://github.com/The-Wizard-Coder/LLM-in-Godot) | Working example of a nobodywho-powered LLM game. | 7★ MIT, Godot 4. Terminal text-adventure game driven entirely by a local LLM (e.g. gemma-2-2b-it-Q4_K_M.gguf); no cloud API required. Demonstrates nobodywho integration and CRT terminal UI. |
 
 ## Godot Tools: AI, State, Gameplay Systems, and Debugging
 
