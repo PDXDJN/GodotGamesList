@@ -17,6 +17,14 @@ Always check the license on the exact asset, track, sound, or plugin version you
 | [Free Music Archive](https://freemusicarchive.org/) | Large independent music catalog. | License varies by track, often Creative Commons. Filter carefully. |
 | [Bensound](https://www.bensound.com/royalty-free-music) | Polished production music for menus, trailers, and commercial-style presentation. | Free and paid licensing terms differ; check attribution and usage limits. |
 
+## Sound Clips from Movies and TV (Personal / Hobbyist Use)
+
+These sources host clips from copyrighted films, TV shows, and pop culture. They are **not cleared for commercial use or redistribution.** Suitable for personal projects, game jams, and hobby games you are not selling or distributing publicly.
+
+| Resource | Best for | License notes |
+|---|---|---|
+| [WavSource](https://www.wavsource.com/) | WAV clips from 325+ movies, 80+ TV shows, plus a general SFX section (explosions, crashes, bells, impacts, comedic effects). Active since 2001; over 8,000 files. | "All rights reserved." Free to browse and download for personal use; do not use in commercial games or publicly distributed releases. |
+
 ## Free Downloadable Sound Effects
 
 | Resource | Best for | License notes |
