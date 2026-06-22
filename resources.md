@@ -60,6 +60,12 @@ These sources host clips from copyrighted films, TV shows, and pop culture. They
 | [Godot Shaders](https://godotshaders.com/) | Shader discovery for water, CRT, outlines, transitions, trails, and VFX. | Good for arcade-style post-processing and feedback effects. |
 | [awesome-godot](https://github.com/godotengine/awesome-godot) | Broad curated index of Godot plugins, demos, tutorials, and tools. | Best for broad exploration rather than one exact problem. |
 
+## Godot Learning and Reference
+
+| Resource | Best for | Notes |
+|---|---|---|
+| [GDScript Cheatsheet](https://melgibzon3d.github.io/Godot-Cheatsheet/) | Quick GDScript and Godot 4 reference. | Comprehensive single-page reference for Godot 4.6: keyboard shortcuts, variables, types, OOP, signals, scene management, input, 3D physics, raycasting, cameras, navigation, file I/O, shader examples, and ready-to-use scripts (first-person controller, pause menu, foliage/fog/rain shaders). |
+
 ## Godot Tools: Terrain, Worlds, and Level Building
 
 | Tool | Best for | Notes |
